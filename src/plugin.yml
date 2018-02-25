@@ -1,0 +1,11 @@
+name: ChickenStorm
+
+author: Shaohui Liu
+
+main: org.minecraft.lesson.Transmuter
+
+commands:
+  transmute:
+    description: description: Transmute one inventory material to another. Usage: /transmute [inputMaterial] [outputMaterial]
+
+version: 1.0
